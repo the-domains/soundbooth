@@ -1,14 +1,10 @@
 ---
-author:
-  - name: DaptoneRecords
-    url: 'https://www.youtube.com/user/DaptoneRecords'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=xi49yirJiEA'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - feigenbaum
   - sabbath
 description: "From Charles Bradley's upcoming album, Changes, out on April 1st, 2016!"
-inLanguage: en
+datePublished: '2015-12-16T09:08:45.273Z'
+dateModified: '2015-12-16T09:08:42.824Z'
+author:
+  - name: DaptoneRecords
+    url: 'https://www.youtube.com/user/DaptoneRecords'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=xi49yirJiEA&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=xi49yirJiEA&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=xi49yirJiEA'
 title: 'OFFICIAL VIDEO: Charles Bradley "Changes"'
-datePublished: '2015-12-16T09:04:52.145Z'
-dateModified: '2015-12-16T09:04:29.979Z'
 sourcePath: _posts/2015-12-16-official-video-charles-bradley-changes.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
