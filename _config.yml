@@ -1,7 +1,7 @@
 name: Soundbooth
 favicon: null
-layout_spectrum: 0.9785661199130118
-typography_spectrum: 0.25684224162250757
+layout_spectrum: 0.93542
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.43594062607735395
-  lightness: 0.7902602304238826
-  saturation: 0.4088620748370886
-  rhythmicContrast: 0.30546870827674866
+    - '#ffffff'
+    - '#ff3193'
+    - '#363636'
+    - '#b3b3b3'
+    - '#767676'
+  brandStrength: 0.75
+  lightness: 0
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
