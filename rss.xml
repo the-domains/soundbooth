@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soundbooth]]></title>
+        <description><![CDATA[Soundbooth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 08:55:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nathaniel Rateliff & The Night Sweats - S.O.B. (Official)]]></title>
+            <description><![CDATA[<article><h1>Nathaniel Rateliff & The Night Sweats - S.O.B. (Official)</h1><p>From the self-titled debut album from Nathaniel Rateliff & The Night Sweats Video directed by Greg Barnes.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1iAYhQsQhSY</link>
+            <guid isPermaLink="false">02c0a338-0aff-4481-83e7-f148e44d98f3</guid>
+            <pubDate>Wed, 16 Dec 2015 08:55:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
