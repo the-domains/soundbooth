@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Soundbooth]]></title>
         <description><![CDATA[Soundbooth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 08:55:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 08:56:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[As I Am, by Paper Bird]]></title>
+            <description><![CDATA[<article><h1>As I Am, by Paper Bird</h1><p>As I Am by Paper Bird, released 23 March 2013</p></article>]]></description>
+            <link>http://paperbirdband.bandcamp.com/track/as-i-am</link>
+            <guid isPermaLink="false">85547827-26ba-4a8d-912e-92ee13182e5e</guid>
+            <pubDate>Wed, 16 Dec 2015 08:55:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nathaniel Rateliff & The Night Sweats - S.O.B. (Official)]]></title>
             <description><![CDATA[<article><h1>Nathaniel Rateliff & The Night Sweats - S.O.B. (Official)</h1><p>From the self-titled debut album from Nathaniel Rateliff & The Night Sweats Video directed by Greg Barnes.</p></article>]]></description>
