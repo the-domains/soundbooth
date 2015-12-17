@@ -4,7 +4,7 @@
         <description><![CDATA[Soundbooth - Music, news for Colorado]]></description>
         <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 22:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 22:14:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soundbooth]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/soundbooth/soundbooth/index.html</link>
             <guid isPermaLink="false">3f07b8c1-f607-419a-a10a-460d38fc5501</guid>
             <pubDate>Wed, 16 Dec 2015 08:56:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="http&colon;&sol;&sol;ift&period;tt&sol;1TOnvG8" src="https://pbs.twimg.com/media/CWTJ-88WoAEp7OJ.jpg:large">]]></description>
+            <link>https://twitter.com/JohnxBueno/status/676887927457259521</link>
+            <guid isPermaLink="false">a3d2b021-3c3f-41f9-8093-eebb8d96332f</guid>
+            <pubDate>Thu, 17 Dec 2015 22:14:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celebrities Read Mean Tweets #9]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Dozen Christmas Songs That Don't Suck! - PULP</h1><p>It's that time of the year again, folks. The holidays are upon us. There's a nip in the air, eggnog is in your favorite grocers' freezer, and THAT DAMN MARIAH CAREY SONG IS ON 24/7 IN EVERY STORE I GO TO!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ced656438d4caa9836fce9f4fa8b1b9af6ada6b9.jpg"></article>]]></description>
             <link>http://pueblopulp.com/a-d-zen-christmas-songs-that-dont-suck-holidays-santa-cookies-and-milk</link>
             <guid isPermaLink="false">0afa69de-166f-4078-8384-09ee01cdbb6e</guid>
-            <pubDate>Wed, 16 Dec 2015 09:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colorado: Pueblo]]></title>
-            <description><![CDATA[<article><h1>Colorado: Pueblo</h1><p>The Music Voyager team travels to Pueblo, Colorado to experience the ways in which this industrious city has promoted creative expressions to revitalize the community. Our host, Jacob Edgar, meets Inaiah Lujan, the founder of the band The Haunted Windchimes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebb0da28b1048f159b7b79247d6b21aef9bcb9a6.jpg"></article>]]></description>
-            <link>https://vimeo.com/124822488</link>
-            <guid isPermaLink="false">00a7dd59-3f4f-49ad-b844-8bdc3a5e2f9a</guid>
             <pubDate>Wed, 16 Dec 2015 09:17:32 GMT</pubDate>
         </item>
     </channel>
