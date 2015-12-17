@@ -4,7 +4,7 @@
         <description><![CDATA[Soundbooth - Music, news for Colorado]]></description>
         <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 09:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 22:11:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soundbooth]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/soundbooth/soundbooth/index.html</link>
             <guid isPermaLink="false">3f07b8c1-f607-419a-a10a-460d38fc5501</guid>
             <pubDate>Wed, 16 Dec 2015 08:56:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Local : BRIDGES - PULP]]></title>
+            <description><![CDATA[<article><h1>The Local : BRIDGES - PULP</h1><p>BRIDGES may easily (and quite erroneously) get lumped in with every other current metal/hardcore band playing out today, but this does them no justice. Shifting between the audible snarl and massive attack of hardcore and metal to delicate and downright pretty alternative minded exalt on a dime, BRIDGES, in a very big sense, play simply heavy music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7c50351aead6a45a46980a25aff0da8f7d56aa2.jpg"></article>]]></description>
+            <link>http://pueblopulp.com/the-local-bridges</link>
+            <guid isPermaLink="false">3b149663-6656-4c50-bcac-9ebdc3fe87ca</guid>
+            <pubDate>Thu, 17 Dec 2015 22:10:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ruby Hill / Quiet Stage, by Chimney Choir]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=xi49yirJiEA</link>
             <guid isPermaLink="false">a9c89d7c-7c32-489e-a17c-dd82ec192779</guid>
             <pubDate>Wed, 16 Dec 2015 09:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adele announces North American tour, two Denver dates]]></title>
-            <description><![CDATA[<article><h1>Adele announces North American tour, two Denver dates</h1><p>Hello from the other side of the pond: Adele has announced a North American tour in 2016, including a pair of Denver dates. The British songstress will hit the road in Minneapolis on July 5 and go on to perform at Denver's Pepsi Center on July 16 and 17.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f5e8d2ab4326101f9d9f3adf7e761127a068c06.jpg"></article>]]></description>
-            <link>http://www.heyreverb.com/blog/2015/12/14/adele-announces-north-american-tour-two-denver-dates/111304/</link>
-            <guid isPermaLink="false">d27e434f-e57b-48d3-830f-6fa5c5e76063</guid>
-            <pubDate>Wed, 16 Dec 2015 08:55:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
