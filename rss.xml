@@ -4,7 +4,7 @@
         <description><![CDATA[Soundbooth - Music, news for Colorado]]></description>
         <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 22:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 22:28:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soundbooth]]></title>
@@ -12,27 +12,6 @@
             <link>https://thegrid.ai/soundbooth/soundbooth/index.html</link>
             <guid isPermaLink="false">3f07b8c1-f607-419a-a10a-460d38fc5501</guid>
             <pubDate>Wed, 16 Dec 2015 08:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool Post #2]]></title>
-            <description><![CDATA[<article><h1>Cool Post #2</h1><p>Cool new thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35ac8c0f3038733d296f461be721df5802233b58.jpg"></article>]]></description>
-            <link>https://thegrid.ai/soundbooth/cool-post-2/index.html</link>
-            <guid isPermaLink="false">6e1502d6-2e4e-44f6-9fa7-223029fe41ae</guid>
-            <pubDate>Thu, 17 Dec 2015 22:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="http&colon;&sol;&sol;ift&period;tt&sol;1TOnvG8" src="https://pbs.twimg.com/media/CWTJ-88WoAEp7OJ.jpg:large">]]></description>
-            <link>https://twitter.com/JohnxBueno/status/676887927457259521</link>
-            <guid isPermaLink="false">a3d2b021-3c3f-41f9-8093-eebb8d96332f</guid>
-            <pubDate>Thu, 17 Dec 2015 22:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celebrities Read Mean Tweets #9]]></title>
-            <description><![CDATA[<article><h1>Celebrities Read Mean Tweets #9</h1><p>The twitterverse can be a battlefield and from time to time, we shine a light on the nasty things people post about celebrities by having those celebrities read them aloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b24dcd81b301f2b781a07dbe59903e0e0b0bd367.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=w1AhrEhQ0mg</link>
-            <guid isPermaLink="false">a2fab8f3-7c2a-425b-97a4-485b9321ccd2</guid>
-            <pubDate>Thu, 17 Dec 2015 22:14:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Local : BRIDGES - PULP]]></title>
@@ -67,13 +46,6 @@
             <description><![CDATA[<article><h1>Top 5 Road Trip Albums- The Inaiah Lujan Edition - PULP</h1><p>Ahh, the great American Road Trip; There's really nothing quite like it. The feel of the tires on the road, the beautiful sights and sounds of American all around; In my humble opine, America is best experienced at high rates of speed, coffee firmly in hand, looking through the wonder of this great nation through a bug-stained windshield.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f09b26c05440f6119a30ca4523935b1e74ac4dc.jpg"></article>]]></description>
             <link>http://pueblopulp.com/top-5-road-trip-albums-the-inaiah-lujan-edition-haunted-windchimes</link>
             <guid isPermaLink="false">f717e951-8262-46dd-ace4-6b3aaee1f86e</guid>
-            <pubDate>Wed, 16 Dec 2015 09:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Local : BRIDGES - PULP]]></title>
-            <description><![CDATA[<article><h1>The Local : BRIDGES - PULP</h1><p>BRIDGES may easily (and quite erroneously) get lumped in with every other current metal/hardcore band playing out today, but this does them no justice. Shifting between the audible snarl and massive attack of hardcore and metal to delicate and downright pretty alternative minded exalt on a dime, BRIDGES, in a very big sense, play simply heavy music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a33d4c34f04a62d5ea04c870de73a5ea17a94e78.jpg"></article>]]></description>
-            <link>http://pueblopulp.com/the-local-bridges</link>
-            <guid isPermaLink="false">4ec3d191-5db6-42cc-88e1-167c26a37592</guid>
             <pubDate>Wed, 16 Dec 2015 09:17:32 GMT</pubDate>
         </item>
     </channel>
