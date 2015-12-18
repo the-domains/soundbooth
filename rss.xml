@@ -4,7 +4,7 @@
         <description><![CDATA[Soundbooth - Music, news for Colorado]]></description>
         <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 03:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 03:56:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soundbooth]]></title>
@@ -15,7 +15,14 @@
         </item>
         <item>
             <title><![CDATA[Pueblo City Limits: The Mesa Verde Story]]></title>
-            <description><![CDATA[<article><h1>Pueblo City Limits: The Mesa Verde Story</h1><p>Lots of great memories going to Mesa Verde National Park, as I'm sure everyone does. However, I never climbed the Balcony House ladder, nor do I recollect seeing Esther the mummy - not sure how I missed that experience. Guess it's time to go back for a visit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4427bb0673da69e97b2c22ecaee7aca607508c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Pueblo City Limits: The Mesa Verde Story</h1><p>Lots of great memories going to Mesa Verde National Park, as I'm sure everyone does. However, I never climbed the Balcony House ladder, nor do I recollect seeing Esther the mummy - not sure how I missed that experience. Guess it's time to go back for a visit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c3e9c89c2eb777706f16e3ca6131079fbfe58fc.jpg"></article>]]></description>
+            <link>http://www.pueblocitylimits.com/2015/09/the-mesa-verde-story.html</link>
+            <guid isPermaLink="false">b7e1584d-0ece-49cb-9a29-958918b9c3f6</guid>
+            <pubDate>Fri, 18 Dec 2015 03:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pueblo City Limits: The Mesa Verde Story]]></title>
+            <description><![CDATA[<article><h1>Pueblo City Limits: The Mesa Verde Story</h1><p>Lots of great memories going to Mesa Verde National Park, as I'm sure everyone does. However, I never climbed the Balcony House ladder, nor do I recollect seeing Esther the mummy - not sure how I missed that experience. Guess it's time to go back for a visit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d5217b1231abedfbc045ce1da8182651642b6c2.jpg"></article>]]></description>
             <link>http://www.pueblocitylimits.com/2015/09/the-mesa-verde-story.html</link>
             <guid isPermaLink="false">126ee66c-657a-446d-9099-1f898995bf4d</guid>
             <pubDate>Fri, 18 Dec 2015 03:50:05 GMT</pubDate>
