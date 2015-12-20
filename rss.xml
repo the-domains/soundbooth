@@ -4,8 +4,15 @@
         <description><![CDATA[Music, news for Southern Colorado]]></description>
         <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 00:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 00:55:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Kind of Man (Nicolas Jaar remix) - Florence & the Machine by OTHER PEOPLE]]></title>
+            <description><![CDATA[<article><h1>What Kind of Man (Nicolas Jaar remix) - Florence & the Machine by OTHER PEOPLE</h1><p>Other People has featured work by Lucrecia Dalt, Vaghe Stelle, William Basinski, Lydia Lunch , Nicolas Jaar, Dj Slugo, Valentin Stip, Ezekiel Honig, Solpara, Darkside, Vtgnike, John Wall. Releases are</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6be34e1b71ce3102d43e05dd6a6921a995aad6d0.jpg"></article>]]></description>
+            <link>https://soundcloud.com/otherpeoplerecords/what-kind-of-man-nicolas-jaar-remix-florence-the-machine</link>
+            <guid isPermaLink="false">29c5db57-57c1-480c-a976-45fb0e2f0bef</guid>
+            <pubDate>Sun, 20 Dec 2015 00:54:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beatles to be on streaming services in time for Christmas]]></title>
             <description><![CDATA[<article><h1>Beatles to be on streaming services in time for Christmas</h1><p>The Fab Four look to heading to all the major streaming services this Christmas. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d85614fa0fabe105b0c0d5c725c412f8ed15a31.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.npr.org/sections/allsongs/2015/12/15/459221176/announcing-our-2016-tiny-desk-contest</link>
             <guid isPermaLink="false">1a02e638-af01-48a0-b7fe-8dea76353f46</guid>
             <pubDate>Wed, 16 Dec 2015 09:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hey CO artists: @nprmusic is now taking submissions for the 2016 #tinydeskcontest http://www.npr.org/sections/allsongs/2015/12/15/459221176/announcing-our-2016-tiny-desk-contest ...</p>]]></description>
-            <link>https://twitter.com/OpenAirCPR/status/676812291078139904</link>
-            <guid isPermaLink="false">985b6f64-43c5-4cea-88cb-8131f269ce02</guid>
-            <pubDate>Wed, 16 Dec 2015 09:21:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
