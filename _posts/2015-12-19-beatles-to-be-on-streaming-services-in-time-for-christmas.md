@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:dc2e017e-173a-4237-aacc-2aaf7c2cd521'
 inLanguage: null
 starred: false
 keywords: []
 description: 'The fab four will head to streaming services this Christmas.  '
-datePublished: '2015-12-20T00:32:23.741Z'
-dateModified: '2015-12-20T00:32:16.771Z'
+datePublished: '2015-12-20T00:56:35.999Z'
+dateModified: '2015-12-20T00:56:32.371Z'
 author: []
-title: Beatles to be on streaming services in time for Christmas
+title: Beatles to be on streamingg services in time for Christmas
 sourcePath: _posts/2015-12-19-beatles-to-be-on-streaming-services-in-time-for-christmas.md
 published: true
 authors: []
@@ -19,11 +18,12 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: beatles-to-be-on-streamingg-services-in-time-for-christmas/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Beatles to be on streaming services in time for Christmas
+# Beatles to be on streamingg services in time for Christmas
 
 The Fab Four look to heading to all the major streaming services this Christmas. 
 
