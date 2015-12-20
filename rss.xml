@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Music, news for Southern Colorado]]></title>
-        <description><![CDATA[Music, news for Southern Colorado]]></description>
+        <title><![CDATA[Colorado Music]]></title>
+        <description><![CDATA[Colorado Music]]></description>
         <link>https://thegrid.ai/soundbooth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 02:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 02:29:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/soundbooth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soundbooth]]></title>
-            <description><![CDATA[<article><h1>Soundbooth</h1><p>Colorado Music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/056c083f00a9d1d558fb4786bc693d11639e7f64.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Soundbooth</h1><p>Colorado Music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13f5520d6bd45678f30f260e85ec7f6c1474191c.png"></article>]]></description>
             <link>https://thegrid.ai/soundbooth/soundbooth/index.html</link>
             <guid isPermaLink="false">4152d58e-4ddb-45bb-bc53-b976478b1de7</guid>
             <pubDate>Sun, 20 Dec 2015 02:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shoulder Pads from Gleemer takes our Song of the Day.]]></title>
+            <description><![CDATA[<article><h1>Shoulder Pads from Gleemer takes our Song of the Day.</h1><p>Gleemer - No Goodbyes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5b1d3ea71b38696ffd7217ae1e785b8f449d038.jpg"></article>]]></description>
+            <link>https://thegrid.ai/soundbooth/shoulder-pads-from-gleemer-takes-our-song-of-the-day/index.html</link>
+            <guid isPermaLink="false">1dad7f65-382a-4eba-9b0a-dcd3036331de</guid>
+            <pubDate>Sun, 20 Dec 2015 02:28:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Kind of Man (Nicolas Jaar remix) - Florence & the Machine by OTHER PEOPLE]]></title>
@@ -68,13 +75,6 @@
             <link>http://chimneychoir.bandcamp.com/album/ruby-hill-quiet-stage</link>
             <guid isPermaLink="false">39efacc2-6fe5-4d51-84e8-382190e195a2</guid>
             <pubDate>Thu, 17 Dec 2015 09:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Our 2016 Tiny Desk Contest]]></title>
-            <description><![CDATA[<article><h1>Announcing Our 2016 Tiny Desk Contest</h1><p>Have you ever watched a Tiny Desk Concert and thought, "Hey, I want to do that!?" Well, now's your chance to play behind my desk here at NPR. That's right: We're bringing NPR Music's Tiny Desk Contest back for a second year. Here's what you do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa1bd0f7d1385ec8c210fc6b04e63179fc114845.jpg"></article>]]></description>
-            <link>http://www.npr.org/sections/allsongs/2015/12/15/459221176/announcing-our-2016-tiny-desk-contest</link>
-            <guid isPermaLink="false">1a02e638-af01-48a0-b7fe-8dea76353f46</guid>
-            <pubDate>Wed, 16 Dec 2015 09:30:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
